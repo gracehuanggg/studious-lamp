@@ -2,13 +2,41 @@
     "name": "Miga House",
     "location": "172 West 4th Street, New York, NY 10014",
     "cusine": "Korean",
-    "menu": 
-    [
-        {"category": "Appetizer".
-    "id": 1, 
-    "items" }
-
-    ]
+    "menu": [
+     {
+            "category": "Appetizer",
+            "id": 1,
+            "items": [
+                {"id": 1, "name": "Kimchi Pancake", "price": 5.99, "in_stock": true},
+                {"id": 2, "name": "Rose Tepookki", "price": 7.49, "in_stock": true},
+                {"id": 3, "name": "Volcano Egg", "price": 6.49, "in_stock": true},
+                {"id": 4, "name": "Banchan Platter", "price": 8.99, "in_stock": true},
+                {"id": 5, "name": "Yaki Mandu", "price": 7.99, "in_stock": false},
+                {"id": 6, "name": "Fried Dumplings", "price": 6.99, "in_stock": true},
+                {"id": 7, "name": "Veggie Kimbap", "price": 5.49, "in_stock": true},
+                {"id": 8, "name": "Japchae", "price": 6.49, "in_stock": false}
+                {"id": 9, "name": "Corn Cheese", "price": 3.99, "in_stock": true}
+            ]
+        },
+     {
+            "category": "Entree",
+            "id": 2,
+            "items": [
+                {"id": 9, "name": "Beef Bibimbap", "price": 13.99, "in_stock": true},
+                {"id": 10, "name": "Vegetable Bibimbap", "price": 14.49, "in_stock": true},
+                {"id": 11, "name": "Kimchi Tofu Strew", "price": 15.49, "in_stock": true},
+                {"id": 12, "name": "Soy Bean Cold Noodles", "price": 15.49, "in_stock": true},
+                {"id": 13, "name": "Kimchi Fried Rice with Pork", "price": 16.99, "in_stock": true},
+                {"id": 14, "name": "", "price": 15.99, "in_stock": true},
+                {"id": 15, "name": "Thai Fried Rice", "price": 12.99, "in_stock": true},
+                {"id": 16, "name": "Basil Chicken (Pad Kra Pao)", "price": 14.99, "in_stock": true},
+                {"id": 17, "name": "Cashew Nut Chicken", "price": 15.49, "in_stock": true},
+                {"id": 18, "name": "Grilled Lemongrass Salmon", "price": 18.99, "in_stock": false},
+                {"id": 19, "name": "Pad See Ew", "price": 14.45, "in_stock": true}
+            ]
+        },
 
 }
+]
+
 
